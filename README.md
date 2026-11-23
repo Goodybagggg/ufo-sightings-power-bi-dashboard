@@ -25,17 +25,7 @@ Power BI Desktop: data model, DAX measures, matrix, clustered bar, clustered col
 | Treemap | Treemap | Sightings by month and duration category |
 | Dashboard | Map, area, bar, slicers | Combined interactive view, filterable by date and month |
 
-## Key Findings
-> TODO: add 3 to 5 findings from your own dashboard. The data model in a .pbix file can't be read outside Power BI, so I have not written numbers for it. Look at your dashboard page and note, for example:
-> - Which shape is most common?
-> - Which country or state has the most sightings?
-> - Which year or month peaks?
-> - How do long-duration sightings (an hour or more) vary by shape or country?
-
-## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
-
-*To create the image: open the file in Power BI Desktop, go to the Dashboard page, then File → Export → Export to PDF, or take a screenshot.*
+<!-- Dashboard preview: add screenshots/dashboard.png, then add ![Dashboard](screenshots/dashboard.png) here -->
 
 ## How to Open
 Download `UFO_Sightings_Dashboard.pbix` and open it in Power BI Desktop (free for Windows).
