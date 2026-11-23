@@ -25,7 +25,16 @@ Power BI Desktop: data model, DAX measures, matrix, clustered bar, clustered col
 | Treemap | Treemap | Sightings by month and duration category |
 | Dashboard | Map, area, bar, slicers | Combined interactive view, filterable by date and month |
 
-<!-- Dashboard preview: add screenshots/dashboard.png, then add ![Dashboard](screenshots/dashboard.png) here -->
+## Key Findings
+> Read from the Dashboard page with the month slicer set to April and dates from 1/10/1983 to 5/8/2014.
+
+- **Shape:** "light" is the most reported shape (roughly 850 sightings), followed by triangle and circle. Cylinder and cigar are the least common.
+- **Trend:** Sightings stay low until the 1990s, then rise sharply, reaching their highest levels around the 2010s.
+- **Location:** On the map, sightings are concentrated in North America.
+- **Duration:** The area chart splits sightings into under 10 minutes and 10 minutes or more.
+
+## Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
 
 ## How to Open
 Download `UFO_Sightings_Dashboard.pbix` and open it in Power BI Desktop (free for Windows).
